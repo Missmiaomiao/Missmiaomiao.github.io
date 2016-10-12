@@ -39,7 +39,7 @@ tags:
 
 噢特喵的！又要学一门语言了......
 
-{对脸懵逼}(www.missmiaomiao.com/img/in-post/twoface.jpg)
+![对脸懵逼](www.missmiaomiao.com/img/in-post/twoface.jpg)
 
 可是你必须得学会，要不然写不了博客，当然这是很简单的，半天做到完全熟练是没问题的，给你一个传送门 ->->-> [markdown语法介绍](http://www.jianshu.com/p/1e402922ee32/)
 
